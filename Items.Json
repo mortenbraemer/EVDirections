@@ -1,0 +1,91 @@
+[
+    {
+        "no": "1896-s",
+        "description": "athen skrivebord",
+        "inventory": "4",
+        "unitofmeasure": "stk",
+        "unitcost": "4,337.00",
+        "unitprice": "5,560.00",
+        "vendorno": "30000",
+        "vendoritemno": "",
+        "purchunitofmeasure": "stk"
+    },
+    {
+        "no": "1900-s",
+        "description": "paris gæstestol, sort",
+        "inventory": "0",
+        "unitofmeasure": "stk",
+        "unitcost": "835.00",
+        "unitprice": "1,071.00",
+        "vendorno": "20000",
+        "vendoritemno": "",
+        "purchunitofmeasure": "stk"
+    },
+    {
+        "no": "1906-s",
+        "description": "athen skuffemodul",
+        "inventory": "5",
+        "unitofmeasure": "stk",
+        "unitcost": "1,879.00",
+        "unitprice": "2,409.00",
+        "vendorno": "30000",
+        "vendoritemno": "",
+        "purchunitofmeasure": "stk"
+    },
+    {
+        "no": "1908-s",
+        "description": "london-drejestol, blå",
+        "inventory": "3",
+        "unitofmeasure": "stk",
+        "unitcost": "823.00",
+        "unitprice": "1,056.00",
+        "vendorno": "30000",
+        "vendoritemno": "",
+        "purchunitofmeasure": "stk"
+    },
+    {
+        "no": "1920-s",
+        "description": "antwerpen konferencebord",
+        "inventory": "10",
+        "unitofmeasure": "stk",
+        "unitcost": "2,808.00",
+        "unitprice": "3,599.00",
+        "vendorno": "20000",
+        "vendoritemno": "",
+        "purchunitofmeasure": "stk"
+    },
+    {
+        "no": "1925-w",
+        "description": "konferencebundt 1-6",
+        "inventory": "0",
+        "unitofmeasure": "stk",
+        "unitcost": "0.00",
+        "unitprice": "1,049.00",
+        "vendorno": "",
+        "vendoritemno": "",
+        "purchunitofmeasure": "stk"
+    },
+    {
+        "no": "1928-s",
+        "description": "amsterdam lampe",
+        "inventory": "8",
+        "unitofmeasure": "stk",
+        "unitcost": "238.00",
+        "unitprice": "305.00",
+        "vendorno": "10000",
+        "vendoritemno": "",
+        "purchunitofmeasure": "stk"
+    },
+    {
+        "no": "1929-w",
+        "description": "konferencebundt 1-8",
+        "inventory": "0",
+        "unitofmeasure": "stk",
+        "unitcost": "0.00",
+        "unitprice": "1,299.00",
+        "vendorno": "",
+        "vendoritemno": "",
+        "purchunitofmeasure": "stk"
+
+    }
+]
